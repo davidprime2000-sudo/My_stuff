@@ -1,4 +1,4 @@
-```cpp
+
 #include <Arduino.h>
 #include <HardwareSerial.h>
 #include <avr/interrupt.h>
@@ -138,4 +138,4 @@ void loop(){
     sei();         //Hab interrupts.
   
 }
-```
+
